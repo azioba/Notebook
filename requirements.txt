@@ -1,0 +1,14 @@
+lightgbm
+matplotlib
+numpy
+pandas
+scikit-learn
+shap
+seaborn
+plotly
+IPython
+lime
+xgboost
+atom-ml
+optuna
+nbformat
